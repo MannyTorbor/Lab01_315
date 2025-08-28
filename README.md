@@ -15,6 +15,7 @@ Sorted Linked List [N=5000] — Insert: 22710us, Avg Lookup: 10144ns
 Unsorted Vector [N=500000] — Insert: 34401us, Avg Lookup: 1975504ns
 Sorted Vector [N=500000] — Insert: 6895946us, Avg Lookup: 2057762ns
 Unsorted Linked List [N=500000] — Insert: 26158us, Avg Lookup: 1960600ns
+Sorted Linked List [N=500000] — Insert: 1698574977us, Avg Lookup: 8284748ns
 For some reason my Sorted Linked List is the longest and takes a lot of time and I truly mean a long time for more than 10 minutes.
 Which makes me think it techinically does not work as we should atleast be trying to get the most effective time.
 ## Structure
